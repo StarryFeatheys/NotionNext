@@ -18,12 +18,12 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_1: '世界喧哗',
+  HEO_HERO_TITLE_2: '静在我心',
+  HEO_HERO_TITLE_3: '乐风',
+  HEO_HERO_TITLE_4: '乐风',
+  HEO_HERO_TITLE_5: '世界喧哗 静在我心',
+  HEO_HERO_TITLE_LINK: 'https://www.xiaohongshu.com/user/profile/6327ec2f000000002303c836?xsec_token=YBLk9dwyQju7MvAa-5eFnTQE6QDF-rO6lFSqepeX7LtEY=&xsec_source=app_share&xhsshare=CopyLink&appuid=6327ec2f000000002303c836&apptime=1734265865&share_id=7e9d37df87cc4f34a83c92865e67342c',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
@@ -51,9 +51,9 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://github.com/tangly1024',
+  HEO_INFO_CARD_URL2: 'https://github.com/StarryFeatheys',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://www.tangly1024.com',
+  HEO_INFO_CARD_URL3: 'https://astra-6if.pages.dev/%E5%85%B3%E4%BA%8E/',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
